@@ -2,7 +2,7 @@
 
 Hi there! I'm a seasoned engineering leader with nearly 20 years of experience in the tech industry - from hands-on development to executive-level strategy.
 
-Currently Head of Engineering at [Arbio](https://arbio.com), I lead cross-functional teams to build scalable products, align technology with business goals, and foster high-performance engineering cultures. My background spans multiple industries, tech stacks, and team sizes - from early-stage startups to fast-scaling companies.
+Currently Head of Engineering at [Arbio](https://www.arbio.com), I lead cross-functional teams to build scalable products, align technology with business goals, and foster high-performance engineering cultures. My background spans multiple industries, tech stacks, and team sizes - from early-stage startups to fast-scaling companies.
 
 I combine deep technical knowledge with strong leadership and product intuition. I’m equally comfortable writing code, reviewing architecture, mentoring engineers, or collaborating with product and business stakeholders to drive growth and innovation.
 
