@@ -16,4 +16,4 @@ I combine deep technical knowledge with strong leadership and product intuition.
 ### 🔗 Connect with me
 I don't enjoy social media that much, so you can find out more about me on my personal website and on LI
 [<img align="left" alt="paduraru.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://paduraru.com/)
-[<img align="left" alt="Stefan Paduraru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stefanpaduraru/)
+[<img align="left" alt="Stefan Paduraru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stefan-paduraru/)
